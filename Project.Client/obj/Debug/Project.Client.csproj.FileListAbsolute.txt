@@ -1,0 +1,5 @@
+D:\noni\c#\api\tutorial_5\HttpClientSample\Project.Client\bin\Debug\Project.Client.exe.config
+D:\noni\c#\api\tutorial_5\HttpClientSample\Project.Client\bin\Debug\Project.Client.exe
+D:\noni\c#\api\tutorial_5\HttpClientSample\Project.Client\bin\Debug\Project.Client.pdb
+D:\noni\c#\api\tutorial_5\HttpClientSample\Project.Client\obj\Debug\Project.Client.exe
+D:\noni\c#\api\tutorial_5\HttpClientSample\Project.Client\obj\Debug\Project.Client.pdb

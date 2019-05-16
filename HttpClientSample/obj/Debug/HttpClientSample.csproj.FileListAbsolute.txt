@@ -1,0 +1,12 @@
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\HttpClientSample.exe.config
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\HttpClientSample.exe
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\HttpClientSample.pdb
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\System.Net.Http.Extensions.dll
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\System.Net.Http.Formatting.dll
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\System.Net.Http.Primitives.dll
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\obj\Debug\HttpClientSample.csprojResolveAssemblyReference.cache
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\obj\Debug\HttpClientSample.exe
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\obj\Debug\HttpClientSample.pdb
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\Newtonsoft.Json.dll
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\Newtonsoft.Json.xml
+D:\noni\c#\api\tutorial_5\HttpClientSample\HttpClientSample\bin\Debug\System.Net.Http.Formatting.xml
